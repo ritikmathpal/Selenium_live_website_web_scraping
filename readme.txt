@@ -1,0 +1,1 @@
+This project include scraping the '99acers.com' for data about rooms in Varanasi with Selenium webdriver dated 29/09/2024
